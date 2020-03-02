@@ -1,6 +1,6 @@
 //アクションクリエーターの作成
 export const INCREMENT = 'INCREMENT'
-export const INCREMENT = 'DECREMENT'
+export const DECREMENT = 'DECREMENT'
 
 export const increment = () => ({
     type: 'INCREMENT'
